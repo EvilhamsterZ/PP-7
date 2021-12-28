@@ -14,11 +14,12 @@
 ###### 9	- высшее (крайнее) превосходство;
 ## Описание среды программирования проекта 
 Для использования приложения требуется Visual studio 2019, а также скачать файлы с данного репозитория а именно
-PP7 Saburov.cpp
-PP7 Saburov.vcxproj
-PP7 Saburov.vcxproj.filters
+ConsoleApplication1.sln
+ConsoleApplication1.cpp
+ConsoleApplication1.vcxproj
 
-Открывать следует PP10 Saburov.cpp это исходник приложения
+
+Открывать следует ConsoleApplication1.cpp это исходник приложения
 В программе запуск осуществляется клавишей F5;
 Ввод осуществляется с клавиатуры//завершение ввода через ENTER;
 
